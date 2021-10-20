@@ -1,0 +1,18 @@
+.join-page {
+	width: 100%;
+	min-height: 92.8vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.join-content {
+	width: 80%;
+	padding: var(--hard-padding-gap);
+	border-radius: var(--hard-border-radius);
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.quote {
+	font-family: var(--qoute-font);
+}
